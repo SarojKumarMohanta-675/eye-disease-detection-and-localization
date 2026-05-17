@@ -1,4 +1,4 @@
-# Eye Disease Detection using Deep CNN & YOLOv11
+# Deep CNN Model for Predicting Eye Diseases using YOLO Object Detection
 
 **An intelligent system for automated classification and localization of eye diseases from retinal fundus images.**
 
