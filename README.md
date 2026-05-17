@@ -2,15 +2,13 @@
 
 **An intelligent system for automated classification and localization of eye diseases from retinal fundus images.**
 
-![Project Demo](demo_images/gradcam_output.jpg)  
-*(Add a representative image here - preferably model output with bounding box)*
+![Project Demo](demo_images/streamlit_demo.png)
 
-## 📋 Project Overview
+*Streamlit Web Application Interface - Real-time Eye Disease Detection*
 
-This project develops a **unified deep learning pipeline** that combines:
-- High-accuracy **multi-class disease classification** using CNN
-- **Explainable AI** via Grad-CAM heatmaps
-- **Weakly supervised object detection** using YOLOv11 with automatically generated pseudo-labels
+## Project Overview
+
+This project develops a **unified deep learning pipeline** that combines high-accuracy multi-class classification using CNN, explainable AI through Grad-CAM heatmaps, and weakly supervised object detection using YOLOv11.
 
 The system can classify retinal images into multiple eye disease categories and localize the affected regions — making it highly useful for computer-aided diagnosis.
 
