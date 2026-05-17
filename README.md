@@ -17,7 +17,6 @@ The system can classify retinal images into multiple eye disease categories and 
 - **Top-1 Accuracy**: 82.77%
 - **Top-2 Accuracy**: 97.75%
 - **YOLOv11 Detection**: Strong localization performance (mAP \~0.85)
-- **Macro Average F1-Score**: [Add your value]
 
 ## 🔥 Features
 
